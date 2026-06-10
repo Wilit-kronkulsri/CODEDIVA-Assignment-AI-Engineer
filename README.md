@@ -5,7 +5,7 @@ This project is a Retrieval-Augmented Generation (RAG) API built with **FastAPI*
 ## 🛠️ Technologies Used
 - **API Framework**: FastAPI
 - **RAG Orchestration**: LangChain
-- **LLM Engine**: Google Gemini (`gemini-1.5-flash`)
+- **LLM Engine**: Google Gemini (`gemini-3.5-flash`)
 - **Embeddings**: Google Gemini (`text-embedding-004`)
 - **Vector Database**: FAISS (In-memory, local CPU)
 
